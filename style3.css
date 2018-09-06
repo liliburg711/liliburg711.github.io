@@ -40,6 +40,10 @@ header.startup h1 {
   font-family: 'Montserrat', sans-serif;
 }
 
+.btn-xl {
+  padding: 1rem 2rem;
+}
+
 .btn-primary {
   background-color: #F05F44;
   border-color: #F05F44;
